@@ -1,3 +1,10 @@
+> [!NOTE]  
+> [Мои лекции по ansible](https://www.youtube.com/playlist?list=PLghZex7qsLs8iTMMiD-ic6Rb0oaPgkE2_)
+> 
+> [Официальная документация](https://docs.ansible.com/ansible/latest/getting_started/get_started_playbook.html)
+
+---
+
 1) Поднять вторую ВМ с минимальными ресурсами и любым linux без графического интерфейса
 2) Написать плейбук для проверки доступности ВМ с выводом только ответа сервера (pong)
 3) Написать плейбук для получения информации о целевых хостах с помощью фактов
