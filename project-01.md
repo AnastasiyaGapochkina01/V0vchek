@@ -9,7 +9,7 @@
 ## Задача
 1) Запустить приложение в docker (+ docker compose):
   - multistage сборка
-  - публиковать собранный image в container registry
+  - публиковать собранный image в docker hub
   - у БД должен быть healthcheck
   - деплой осуществлять с помощью docker compose, который должен содержать сервисы
     - приложение
